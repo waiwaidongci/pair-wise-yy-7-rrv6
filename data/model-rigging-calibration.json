@@ -43,5 +43,38 @@
         }
       ]
     }
-  ]
+  ],
+  "batches": [
+    {
+      "id": "B-SEED-1",
+      "batchNo": "蜡线-2026-03",
+      "material": "蜡线",
+      "totalLength": 500,
+      "remainingLength": 500,
+      "unit": "cm",
+      "expiryDate": "2027-03-31",
+      "createdAt": "2026-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "B-SEED-2",
+      "batchNo": "蜡线-2026-07",
+      "material": "蜡线",
+      "totalLength": 80,
+      "remainingLength": 80,
+      "unit": "cm",
+      "expiryDate": "2026-12-31",
+      "createdAt": "2026-07-05T00:00:00.000Z"
+    },
+    {
+      "id": "B-SEED-3",
+      "batchNo": "蜡线-2025-09",
+      "material": "蜡线",
+      "totalLength": 300,
+      "remainingLength": 120,
+      "unit": "cm",
+      "expiryDate": "2026-05-31",
+      "createdAt": "2025-09-10T00:00:00.000Z"
+    }
+  ],
+  "requisitions": []
 }
