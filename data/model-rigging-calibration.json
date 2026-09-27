@@ -43,5 +43,38 @@
         }
       ]
     }
-  ]
+  ],
+  "batches": [
+    {
+      "id": "B-001",
+      "material": "蜡线",
+      "spec": "0.4mm 本色",
+      "totalLength": 200,
+      "remaining": 160,
+      "unit": "米",
+      "expiryDate": "2027-03-31",
+      "createdAt": "2026-05-01T00:00:00.000Z"
+    },
+    {
+      "id": "B-002",
+      "material": "蜡线",
+      "spec": "0.6mm 深棕",
+      "totalLength": 120,
+      "remaining": 45,
+      "unit": "米",
+      "expiryDate": "2026-10-31",
+      "createdAt": "2026-05-01T00:00:00.000Z"
+    },
+    {
+      "id": "B-003",
+      "material": "蜡线",
+      "spec": "0.3mm 漂白",
+      "totalLength": 80,
+      "remaining": 80,
+      "unit": "米",
+      "expiryDate": "2026-06-30",
+      "createdAt": "2026-05-01T00:00:00.000Z"
+    }
+  ],
+  "issues": []
 }
